@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/specs"
+        android:title="SmartPhone Specifications"/>
+    <item android:id="@+id/image"
+        android:title="Expand photo" />
+    <item android:id="@+id/webpage"
+        android:title="Open Web-page" />
+</menu>
